@@ -133,3 +133,51 @@ padding-block: 40px 13px;
     background-repeat: no-repeat;
 }
 
+/*  Footer   */
+
+.footer {
+  padding: 30px 30px 20px 30px;
+  background-color: rgb(00,00,40);
+  border-top: 1px solid #e5e5e5; 
+}
+
+.cointainer_footer{
+  width: 95%;
+  height: fit-content;
+  margin: 0 auto;
+
+}
+
+.A{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ }
+
+
+.Name_Slogan{
+ color: white;
+}
+
+
+.Menu_Nav_f{
+  display: flex;
+  flex-direction: row;
+  }
+  
+
+  
+  .nav__items_f{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 5px 5px;
+  }
+  
+
+  .legal {
+    padding-top: 10PX;
+    display: flex;
+    color: rgb(95, 95, 95);
+  }
+
